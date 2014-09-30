@@ -20,6 +20,7 @@ setup(
     url='https://github.com/pegler/pytzwhere',
     download_url='https://github.com/pegler/pytzwhere/tarball/1.0',
     author='Matt Pegler',
+    use_2to3=True,
     classifiers=[
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
